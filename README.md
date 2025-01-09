@@ -4,7 +4,7 @@
 
 🌎 Mi trabajo busca cerrar brechas críticas en temas como anemia, desnutrición crónica infantil, bajo peso al nacer, logros de aprendizaje, infraestructura educativa, y el embarazo adolescente, entre otros. Creo firmemente que la divulgación de información precisa y accesible puede reducir estas desigualdades al inspirar acción tanto en la sociedad civil como en los responsables políticos.
 
-🚀 Me motiva colaborar con profesionales comprometidos que, al igual que yo, desean construir un país más equitativo, con un entorno favorable para el máximo desarrollo de niñas, niños, adolescentes y su población en general. Estoy convencido de que el trabajo colectivo, basado en datos sólidos y herramientas tecnológicas, puede marcar una diferencia significativa en la vida de las personas.
+🚀 Me motiva colaborar con profesionales comprometidos que, al igual que yo, desean construir un país más equitativo, con un entorno favorable para el máximo desarrollo de niñas, niños, adolescentes y poblaciones vulnerables. Estoy convencido de que el trabajo colectivo, basado en datos sólidos y herramientas tecnológicas, puede marcar una diferencia significativa en la vida de las personas.
 
 📊 Estoy especialmente interesado en las nuevas tecnologías y herramientas basadas en Inteligencia Artificial, y cómo estas pueden transformar la forma en que se presenta y analiza la información, haciendo que los datos sean pertinentes, resumidos y precisos. Me mantengo en constante aprendizaje sobre plataformas como Power BI y lenguajes relacionados con bases de datos como SQL-Server, para integrar estas soluciones en mis proyectos.
 
